@@ -23,7 +23,7 @@ body::-webkit-scrollbar-thumb {
 .bg {
   height: 100vh;
   width: 100vw;
-  background: url("/responsiveWeb/edewaa-foster-aWkpMIIC5aY-unsplash.jpg") fixed
+  background: url("https://raw.githubusercontent.com/Jaagrav/ResponsiveWeb/master/edewaa-foster-aWkpMIIC5aY-unsplash.jpg") fixed
     center center no-repeat;
   background-size: cover;
 }
@@ -79,14 +79,14 @@ peep {
 .bg2 {
   height: 250px;
   width: 100vw;
-  background: url("/responsiveWeb/vlad-tchompalov-M1RiC7rHPHc-unsplash.jpg")
+  background: url("https://raw.githubusercontent.com/Jaagrav/ResponsiveWeb/master/vlad-tchompalov-M1RiC7rHPHc-unsplash.jpg")
     fixed center center no-repeat;
   background-size: cover;
 }
 .bg3 {
   height: 100vh;
   width: 100vw;
-  background: url("/responsiveWeb/frida-bredesen-LNSIGPuZXIg-unsplash.jpg")
+  background: url("https://raw.githubusercontent.com/Jaagrav/ResponsiveWeb/master/frida-bredesen-LNSIGPuZXIg-unsplash.jpg")
     fixed center center no-repeat;
   background-size: cover;
 }
